@@ -1,2 +1,2 @@
-Readme file
+Readme file\n
 Readme file
