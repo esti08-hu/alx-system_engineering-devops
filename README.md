@@ -1,3 +1,2 @@
 #!/bin/bash
-Shell basics Readme
-
+Shell basics Readme\n
