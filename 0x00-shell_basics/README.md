@@ -1,2 +1,1 @@
-#!/bin/bash
-Readme file\n
+Readme file
