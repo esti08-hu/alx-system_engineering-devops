@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "jello Myuser"
+printf "hello Myuser"
